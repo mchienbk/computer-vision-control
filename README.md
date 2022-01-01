@@ -1,2 +1,2 @@
 # computer-vision-control
- Computer Vision & Control BKHCM
+computer vision & control cource: solution and testing
